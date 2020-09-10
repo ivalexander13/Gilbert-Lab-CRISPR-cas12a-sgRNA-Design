@@ -1,3 +1,5 @@
 # ignore data dir, except mini subdir.
 data/*
 !data/mini/
+
+.ipynb_checkpoints
